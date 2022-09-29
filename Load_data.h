@@ -9,7 +9,7 @@ char* fun_load_data()
 {
     char file_path[50];
 
-    printf("\nPlease input path to data file in JSON format: ");
+    printf("\nPlease input path to data file, or the name if file is in folder with program, in JSON format: ");
     scanf("%s",&file_path);
 
     FILE *f = NULL;
