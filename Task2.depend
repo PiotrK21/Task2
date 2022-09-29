@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1664381994 source:d:\stary win\programowanie\tritem\task2\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<ctype.h>
+	<float.h>
+	<locale.h>
+	"cJSON.h"
+
+1664381994 d:\stary win\programowanie\tritem\task2\cjson.h
+	<stddef.h>
+
+1664473130 source:d:\stary win\programowanie\tritem\task2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Sig_analyze.h"
+	"Load_data.h"
+
+1664475318 d:\stary win\programowanie\tritem\task2\sig_analyze.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdbool.h>
+	"cjson.h"
+
+1664473130 d:\stary win\programowanie\tritem\task2\load_data.h
+
